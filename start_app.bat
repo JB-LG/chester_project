@@ -1,3 +1,3 @@
 python3.11 -m pip install -r requirements.txt
-python3.11 app.py
+python3.11 index.py
 pause
