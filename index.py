@@ -1,7 +1,7 @@
 # Dash
 from dash import dcc, html
 from dash.dependencies import Input, Output, State
-from pages.app import app
+from app import app
 # Layouts
 from pages.header import Navbar
 from pages.layout_homepage import Homepage
